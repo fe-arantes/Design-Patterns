@@ -2,7 +2,7 @@
 
 namespace DesignPatterns.Strategy.Tax
 {
-    internal class CalculateTax
+    internal class TaxCalculator
     {
         public decimal Calculate(Order order, ITax tax)
         {

@@ -4,7 +4,7 @@ using DesignPatterns.Strategy.Tax;
 ITax iss = new Iss();
 ITax icms = new Icms();
 ITax iCCC = new ICCC();
-var calculateTax = new CalculateTax();
+var calculateTax = new TaxCalculator();
 
 
 var myOrder = new Order(100);

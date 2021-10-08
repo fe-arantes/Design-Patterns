@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Discount\" />
-    <Folder Include="Sale\" />
-  </ItemGroup>
-
 </Project>
