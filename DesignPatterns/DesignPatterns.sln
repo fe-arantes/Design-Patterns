@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{4E262E9D-590E-49F5-8101-6EFD86800B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{4E262E9D-590E-49F5-8101-6EFD86800B25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.ChainOfResponsibility", "DesignPatterns.ChainOfResponsibility\DesignPatterns.ChainOfResponsibility.csproj", "{22F2494C-9F3D-476D-97F0-C7EBAD4BC461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.ChainOfResponsibility", "DesignPatterns.ChainOfResponsibility\DesignPatterns.ChainOfResponsibility.csproj", "{22F2494C-9F3D-476D-97F0-C7EBAD4BC461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.TemplateMethod", "DesignPatterns.TemplateMethod\DesignPatterns.TemplateMethod.csproj", "{66E3CE60-1870-4C01-94A5-78B284CED5ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{22F2494C-9F3D-476D-97F0-C7EBAD4BC461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F2494C-9F3D-476D-97F0-C7EBAD4BC461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F2494C-9F3D-476D-97F0-C7EBAD4BC461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E3CE60-1870-4C01-94A5-78B284CED5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E3CE60-1870-4C01-94A5-78B284CED5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E3CE60-1870-4C01-94A5-78B284CED5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E3CE60-1870-4C01-94A5-78B284CED5ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
