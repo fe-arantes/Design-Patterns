@@ -15,5 +15,6 @@ TemplateMethod
 
 ---
 ### Padrões estruturais
-Decorator : https://refactoring.guru/pt-br/design-patterns/decorator
+Decorator
+:rocket: https://refactoring.guru/pt-br/design-patterns/decorator
 
